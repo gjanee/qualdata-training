@@ -57,7 +57,7 @@ Once you follow those instructions, you may click on the QualCoder icon to launc
 
 ## Basic Functionalities
 
-We will cover some basic settings and terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:
+We will cover some basic settings and terms, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:
 
 {{< video https://www.youtube.com/watch?v=wj5fY4F5Jxo width="600" height="400" >}}
 
